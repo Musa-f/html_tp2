@@ -11,7 +11,7 @@ h1{
 }
 
 img{
-    width: 300px;
+    width: 230px;
 }
 
 .champs{
@@ -20,5 +20,6 @@ img{
 
 .para{
     clear: right;
+    padding-top: 30px;
 }
 
